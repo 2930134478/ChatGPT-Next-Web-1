@@ -121,8 +121,8 @@ export function SideBar(props: { className?: string }) {
           BOX小铺对话网
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          ChatGPT账号和API购买:
-          <a href="https://shop.terobox.com/">https://shop.terobox.com/</a>
+          ChatGPT账号API购买:
+          <a href="https://shop.terobox.com/">https://shop.terobox.com/</a><br>
           <a href="https://shop.51buygpt.com/">https://shop.51buygpt.com/</a>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
