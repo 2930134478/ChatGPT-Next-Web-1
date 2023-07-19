@@ -6,7 +6,7 @@ const en: LocaleType = {
   WIP: "Coming Soon...",
   Error: {
     Unauthorized:
-      "Unauthorized access, please enter access code in [auth](/#/auth) page.",
+      "This is BOX Xiaopu Dialogue Network, please fill in your own API Key and interface address on the [Settings](/#/settings) page.",
   },
   Auth: {
     Title: "Need Access Code",
